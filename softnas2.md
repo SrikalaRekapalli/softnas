@@ -7,7 +7,7 @@ SoftNAS Cloud is packaged with a primary administration interface called: SoftNA
 StorageCenter™, which provides commercial-grade storage administration and
 management functionalities for businesses of all sizes.
 
-###Reliable– 
+###Reliable
 SoftNAS Cloud® is built on proven, industry-standard platforms including VMware, Linux and ZFS for a solid and reliable foundation.
 • Rapid Recovery
 • Data Integrity & Data Protection

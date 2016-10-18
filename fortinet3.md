@@ -5,9 +5,9 @@ Both the environment log and the email contain the URL, login id, password, two 
 
 Once you’ve logged in to the test drive, you will create a policy on FortiGate-A (and FortiGate-B) to allow outbound internet connectivity (be sure to enable NAT using the outgoing interface address. To do this, you can:
 
- Connect to FortiGate-A via https on default port 443 [link](https://dnsUR)
+ Connect to FortiGate-A via https on default port 443 (https://dnsUR)
 
- Connect to FortiGate-B via https on port 8443 [link](https://dnsURL:8443)
+ Connect to FortiGate-B via https on port 8443 (https://dnsURL:8443)
 
 For example, use the URL provided in the environment window and in the email to connect to FortGate-A (on port 443 by default), and use the same URL but with :8443 appended at the end to connect to Fortigate-B.
 

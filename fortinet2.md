@@ -1,6 +1,7 @@
 ## CONFIGURATION 
 ### Azure Load Balancer
 All traffic coming from outside of Azure will pass through the Azure load balancer first. The load balancer uses NAT/PAT to connect a single public IP address to the Azure VNET. Within the Azure portal there are two options for configuring these NAT rules. The first is called “Inbound NAT rules.” The second is termed “Load balancing rules.”
+
 This is already pre-configured.
 
 ### I. Sign up for the Fortinet Azure test drive:
